@@ -1,2 +1,2 @@
 # SAT_Results
- Insert data - this needs to handle input data for the following Object and store in memory
+ Insert data - this handle input data for the Object and store in memory in JSON format
