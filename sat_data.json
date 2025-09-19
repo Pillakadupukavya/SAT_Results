@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Padma",
+        "address": "Bengaluru",
+        "city": "Marathalli",
+        "country": "India",
+        "pincode": "515213",
+        "satScore": 67.0,
+        "passed": "Pass"
+    },
+    {
+        "name": "harshi",
+        "address": "1/1858, Gorantla",
+        "city": "Gorantla",
+        "country": "India",
+        "pincode": "515231",
+        "satScore": 78.8,
+        "passed": "Pass"
+    },
+    {
+        "name": "rohitha",
+        "address": "nellore",
+        "city": "nellore",
+        "country": "nelore",
+        "pincode": "524408",
+        "satScore": 50.0,
+        "passed": "Pass"
+    }
+]
